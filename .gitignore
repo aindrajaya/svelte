@@ -34,3 +34,6 @@ _output
 /site/scripts/svelte-app
 /site/scripts/community
 /site/src/routes/_contributors.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
